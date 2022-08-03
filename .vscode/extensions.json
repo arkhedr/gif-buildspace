@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "2gua.rainbow-brackets",
+    "usernamehw.errorlens",
+    "yzhang.markdown-all-in-one"
+  ]
+}
